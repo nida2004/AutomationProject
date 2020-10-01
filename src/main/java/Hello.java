@@ -10,7 +10,9 @@ public class Hello {
 
         System.out.println(" Free working trial");
 
-        System.out.println("new chnage free working");
+        //New idea
+        System.out.println("GitHub is made easy  to share my code");
+
 
     }
 }
