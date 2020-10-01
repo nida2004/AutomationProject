@@ -10,5 +10,7 @@ public class Hello {
 
         System.out.println(" Free working trial");
 
+        System.out.println("new chnage free working");
+
     }
 }
